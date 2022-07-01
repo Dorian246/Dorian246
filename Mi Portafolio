@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title style="color:red ;font-size: 24px;">MI PORTAFOLIO</title>
+</head>
+<body>
+    <h1 style="color: green;">Proyectos:</h1>
+<h3 style="color: red; ">Pokedex</h3> 
+<h3 style="color: red;">sistema solar</h3>
+ <h3 style="color:red ;">Index</h3> 
+ <h3 style="color:red ;">Proyecto Final</h3>
+
+ <a href="POKEDEX"> Mi pokedex</a>
+ <a href="sistema_solar.html">sistema solar</a>
+ <a href="index.html">Index HTML</a>
+ <a href="proyecto final">MI PRYECTO FINAL</a>
+ <a href="ejemplo 2">Ejemplo</a>
+
+</body>
+</html>
