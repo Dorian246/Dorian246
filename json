@@ -1,0 +1,33 @@
+{
+"apiname": "Biomedicina en queretaro",
+"origin": "Queretaro",
+"create ": 2022,
+"figures" : [
+    {¨
+       "id": 1,
+       "name ": "biomedical",
+       "type" : "normal",
+      "height": o.3,
+       "weigth": 6.5,
+       "des":"biomedicina que es?"
+       "figure":"https://drive.google.com/file/d/1IPkwisYPlG6erz_KD7STUYBBzJ2YqDMt/view?usp=sharing"
+      },
+      { "id": 2,
+      "name": "biomedicina",
+      "type": "normal"
+      "height": o.3,
+       "weigth": 6.5,
+       "des":"Para que sirve?"
+       "figure":"https://drive.google.com/file/d/1hiSmBq_d_GNAQR2P8LuVLSkaGatw072U/view?usp=sharing"       
+       },
+
+       {"id":3,
+       "name": "biomecanica",
+      "type": "normal"
+      "height": o.3,
+       "weigth": 6.5,
+       "des":"Donde estudiar"
+       "figure":"https://drive.google.com/file/d/15oabBAmjNOwH3rWrrPCTNkWZILUvIt63/view?usp=sharing"
+      }
+    ]
+}
